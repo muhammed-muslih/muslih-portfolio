@@ -76,6 +76,13 @@ body {
   background-color: #fff;
 }
 
+html,
+body {
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+
 [tabindex="-1"]:focus {
   outline: 0 !important;
 }
