@@ -83,6 +83,10 @@ body {
   overflow-y: auto;
 }
 
+.js-fullheight {
+  min-height: 100vh;
+}
+
 
 [tabindex="-1"]:focus {
   outline: 0 !important;

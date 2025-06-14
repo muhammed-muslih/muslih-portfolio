@@ -21,6 +21,7 @@ AOS.init({
       $(".js-fullheight").css("min-height", $(window).height());
     });
   };
+  
   fullHeight();
 
   // loader
