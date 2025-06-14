@@ -88,6 +88,7 @@ body {
 }
 
 
+
 [tabindex="-1"]:focus {
   outline: 0 !important;
 }
@@ -109,13 +110,13 @@ body {
   align-items: center;
 }
 
-.block-20 {
+/* .block-20 {
   height: 100%;
   width: 100%;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-}
+} */
 
 
 .error-msg {
